@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/student1/djdoris/nbody-Doris58/build",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -fopenmp -Wall -std=c++17 -o CMakeFiles/main.dir/main.cpp.o -c /home/student1/djdoris/nbody-Doris58/main.cpp",
+  "file": "/home/student1/djdoris/nbody-Doris58/main.cpp"
+},
+{
+  "directory": "/home/student1/djdoris/nbody-Doris58/build",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -fopenmp -Wall -std=c++17 -o CMakeFiles/main.dir/nbody.cpp.o -c /home/student1/djdoris/nbody-Doris58/nbody.cpp",
+  "file": "/home/student1/djdoris/nbody-Doris58/nbody.cpp"
+}
+]
